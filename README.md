@@ -1,29 +1,22 @@
-# front
+# Trello
 
-## Project setup
-```
-npm install
-```
+## About Trello
+Postit is a web application that reproduce a trello concept made in 5 days
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Created with
+- Front: VueJS3
+- Back: Wordpress
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Langages
+- CSS3, HTML5
+- axios
 
-### Run your unit tests
-```
-npm run test:unit
-```
+## Fonctionnalités
+- Responsive
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Versionnement
+Version 1
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Auteurs
+Sacha Blin Zwertvaegher,
+Student of the Coding academy by Epitech
